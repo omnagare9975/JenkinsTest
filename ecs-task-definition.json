@@ -6,7 +6,7 @@
     "memory": "512",
     "containerDefinitions": [
       {
-        "name": "nodejs-app",
+        "name": "Portfolio",
         "image": "<IMAGE_URI>",
         "essential": true,
         "portMappings": [
